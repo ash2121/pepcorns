@@ -1,16 +1,7 @@
-# pepcorns
+# Pepcorns
+# Screenshots
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![pep1](https://github.com/ash2121/pepcorns/assets/76738174/c2f5fd3a-9b1e-40df-8f04-fdc45e568176)
+![pep2](https://github.com/ash2121/pepcorns/assets/76738174/fc0da7ca-e898-4ad4-a110-36f3418a7f9a)
+![pep3](https://github.com/ash2121/pepcorns/assets/76738174/eddf83d5-f8ad-4fd1-9eb9-a63dfcacf825)
+![pep4](https://github.com/ash2121/pepcorns/assets/76738174/37cc1c47-3dba-4c5a-a4f4-70ab1153e9ce)
